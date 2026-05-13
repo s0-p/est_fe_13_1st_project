@@ -130,7 +130,7 @@ Tools
 
 ### 2.2 URL
 
-- [https://rozer4heros.github.io/est_fe_13_1st_project/](https://rozer4heros.github.io/est_fe_13_1st_project/)
+- [이스트소프트 | 부트캠프 모집 홈페이지](https://s0-p.github.io/est_fe_13_1st_project/)
 
 ## 3. 프로젝트 구조
 
